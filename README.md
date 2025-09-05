@@ -64,7 +64,6 @@ $$
 T_k = \{ w_{i,k} = \prod_{j=1}^{i} (a b^{j^{k}}) \mid i \ge 1 \}
 $$
 
-- A set of binary words `Tk` for a given `k > 0`.
 - Fibonacci words of odd and even order.
 - Given an integer $k > 5$, the set of the words $w_k$ defined as:
   
